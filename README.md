@@ -1,2 +1,4 @@
-# VEDIKA-RESTAURANT-WEBSITE
-This is restaurant website through which user are able to  book table,visit menu,services of restaurant and contact to manager of restaurant
+# VEDIKA
+Project based on HTML ,CSS ,JAVASCRIPT,PHP
+IT IS RESTAURANT WEBSITE.
+THIS PROJECT IS FRONTEND BASED
